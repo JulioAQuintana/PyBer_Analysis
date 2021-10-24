@@ -7,10 +7,10 @@ This analysis shows the fare amount in dollars procured during January to April 
 ## Results.
  ### In the following graph we can see total fares by city type during January to April, where Urban rides (yellow line) represent the highest incoming fares and Rural (blue) represent lowest fares between $0 to $500. we also can a special high peak in 3rd week on February for each city type. 
  
-     ####  Line Chart graph
+   ####  Line Chart graph
    ![](https://github.com/JulioAQuintana/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
      
-     ####  Urban city represent 62.7% of the total fares represented in the following chart
+   ####  Urban city represent 62.7% of the total fares represented in the following chart
    ![Pye chart](https://github.com/JulioAQuintana/PyBer_Analysis/blob/main/analysis/Fig7.png)
   
 
